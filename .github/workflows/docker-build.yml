@@ -45,4 +45,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: oluwatimilehin24/python-helloworld:latest
+          tags: knightsurf/python-helloworld:latest
